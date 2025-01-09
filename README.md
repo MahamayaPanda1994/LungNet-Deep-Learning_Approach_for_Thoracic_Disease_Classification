@@ -1,7 +1,7 @@
 # 298B
 # SageSoulRAG: RAG-based Chatbot with Personality
 
-Aradhya A. Rathnakar, Bhavan K. Basavaraju, Mahamaya Panda, ReddySaketh R. Chappidi, and ShashiKumar K. Mallikarjuna
+Mahamaya Panda
 
 _Department of Applied Data Science, San Jose State University
 DATA 298B: MSDA Project II
