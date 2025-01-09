@@ -1,1 +1,0 @@
-# LungNet-Deep-Learning_Approach_for_Thoracic_Disease_Classification
